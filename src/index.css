@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.pie-chart{
+    width: 400px !important;
+    height: 400px !important;
+    margin: auto;
+    margin-top: 60px;
+}
